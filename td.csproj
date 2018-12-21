@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8E41DC2A-FA08-42E4-8A0D-9F61C6037EB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>td</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Character.cs" />
+    <Compile Include="Explosion.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shooting.cs" />
+    <Compile Include="Tower1.cs" />
+    <Compile Include="Tower2.cs" />
+    <Compile Include="Tower3.cs" />
+    <Compile Include="Tutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tutorial.Designer.cs">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wind.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tutorial.resx">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turtleUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turtleDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turtleRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turtleLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backroundBase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backroundBase+labels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destroy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nope.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nopeworks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startBackround.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explosion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructionBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructionBack2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\very.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startWaveImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartHere.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startButtonWorking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1bitmap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1bitmapFIXED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1bitmapFIXEDSIZE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1bitmapFIXEDSIZE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1bitmapFIXEDSIZE3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1bitmapFIXEDSIZEandcolour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1bitmaphand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owlSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owlSmallWorks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl80by80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\podium.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\winnerfix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower2fix.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightning.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bang.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ramlogo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

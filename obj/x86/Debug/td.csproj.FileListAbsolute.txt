@@ -1,0 +1,210 @@
+C:\Users\John\documents\visual studio 2010\Projects\td\td\bin\Debug\td.exe
+C:\Users\John\documents\visual studio 2010\Projects\td\td\bin\Debug\td.pdb
+C:\Users\John\documents\visual studio 2010\Projects\td\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\documents\visual studio 2010\Projects\td\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\documents\visual studio 2010\Projects\td\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+C:\Users\John\documents\visual studio 2010\Projects\td\td\obj\x86\Debug\td.exe
+C:\Users\John\documents\visual studio 2010\Projects\td\td\obj\x86\Debug\td.pdb
+C:\Users\John\documents\visual studio 2010\Projects\td\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+H:\td 10.02.2014\td\td\obj\x86\Debug\td.exe
+H:\td 10.02.2014\td\td\obj\x86\Debug\td.pdb
+H:\td 10.02.2014\td\td\bin\Debug\td.exe
+H:\td 10.02.2014\td\td\bin\Debug\td.pdb
+H:\td 10.02.2014\td\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\td 10.02.2014\td\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\td 10.02.2014\td\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\td 10.02.2014\td\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\td 10.02.2014\td\td\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\obj\x86\Debug\td.exe
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\obj\x86\Debug\td.pdb
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\bin\Debug\td.exe
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\bin\Debug\td.pdb
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Downloads\td 12.02.2014 fromschool\td 10.02.2014\td\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\obj\x86\Debug\td.exe
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\obj\x86\Debug\td.pdb
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\bin\Debug\td.exe
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\bin\Debug\td.pdb
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\td 11.02.2014fromhome\td 10.02.2014\td\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\td14.022.2014\td\obj\x86\Debug\td.exe
+H:\td14.022.2014\td\obj\x86\Debug\td.pdb
+H:\td14.022.2014\td\bin\Debug\td.exe
+H:\td14.022.2014\td\bin\Debug\td.pdb
+H:\td14.022.2014\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\td14.022.2014\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\td14.022.2014\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\td14.022.2014\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\td14.022.2014\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\tdforoshawa\td\bin\Debug\td.exe
+H:\tdforoshawa\td\bin\Debug\td.pdb
+H:\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\obj\x86\Debug\td.pdb
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\tdforoshawa\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.exe
+H:\TD\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.pdb
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.exe
+H:\TD\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.pdb
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.exe
+H:\TD\tdfirststepofnotlookingbad\tdfinishedlighting\tdfinisheddestroyingtowers\tdjustfinishedoptimizing\tdforoshawatower1upgrade\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+C:\Users\John\Desktop\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+H:\TD\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\TD\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+H:\TD\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.HighscoreWindow.resources
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+C:\Users\user1\Desktop\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.exe
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\bin\Debug\td.pdb
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.exe
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.pdb
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\WindowsFormsApplication1.Tutorial.resources
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+H:\TD\tddewever\tdthinkingofrotation\tddodgeballday\tdjustorganized\tdstartingonplayagain\tdstartedonhighscores\tdDonsNight\tdforoshawa\td\obj\x86\Debug\td.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\bin\Debug\td.exe.config
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\bin\Debug\td.exe
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\WindowsFormsApplication1.Tutorial.resources
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.csproj.GenerateResource.cache
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.pdb
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\bin\Debug\td.exe.config
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\bin\Debug\td.exe
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\bin\Debug\td.pdb
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.csprojAssemblyReference.cache
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\WindowsFormsApplication1.Tutorial.resources
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.csproj.GenerateResource.cache
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.exe
+C:\Users\John\Desktop\Programs\Turtle Defence (The Better Tower Defence)\Turtle Defence\td\obj\x86\Debug\td.pdb
